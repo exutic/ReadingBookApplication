@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btColor">#0074F0</color>
+    <color name="btColor2">#5F0fFF</color>
+    <color name="bt_Acc_Color">#F4ae15</color>
+
+    <color name="White">#FFFFFFFF</color>
+    <color name="Silver">#FFC0C0C0</color>
+    <color name="Gray">#FF808080</color>
+    <color name="Black">#FF000000</color>
+    <color name="Red">#FFFF0000</color>
+    <color name="Maroon">#FF800000</color>
+    <color name="Yellow">#FFFFFF00</color>
+    <color name="Olive">#FF808000</color>
+    <color name="Lime">#FF00FF00</color>
+    <color name="Green">#FF008000</color>
+    <color name="Aqua">#FF00FFFF</color>
+    <color name="Teal">#FF008080</color>
+    <color name="Blue">#FF0000FF</color>
+    <color name="Navy">#FF000080</color>
+    <color name="Fuchsia">#FFFF00FF</color>
+    <color name="Purple">#FF800080</color>
+
+    <color name="A1">#dac9b6</color>
+    <color name="A2">#003366</color>
+    <color name="A3">#ffa505</color>
+    <color name="A4">#856370</color>
+    <color name="A5">#fd8bb6</color>
+    <color name="A6">#7f0019</color>
+    <color name="A7">#ffbbf9</color>
+    <color name="A8">#0455e5</color>
+    <color name="A9">#cc2004</color>
+
+    <color name="B1">#ffa505</color>
+    <color name="B2">#d6a5a5</color>
+    <color name="B3">#e1e2da</color>
+    <color name="B4">#c4c6b5</color>
+    <color name="B5">#ad4c4c</color>
+    <color name="B6">#ebdbd8</color>
+    <color name="B7">#cfbca2</color>
+    <color name="B8">#e5d3b8</color>
+    <color name="B9">#73477c</color>
+
+    <color name="C1">#705a6a</color>
+    <color name="C2">#ff7373</color>
+    <color name="C3">#c6e2ff</color>
+    <color name="C4">#003366</color>
+    <color name="C5">#d3ffce</color>
+    <color name="C6">#ffc0cb</color>
+    <color name="C7">#6897bb</color>
+    <color name="C8">#008080</color>
+    <color name="C9">#d81813</color>
+
+    <color name="D1">#7f0019</color>
+    <color name="D2">#ffc12b</color>
+    <color name="D3">#dddddd</color>
+    <color name="D4">#263250</color>
+    <color name="D5">#a30041</color>
+    <color name="D6">#fde500</color>
+    <color name="D7">#ff0666</color>
+    <color name="D8">#ff0001</color>
+    <color name="D9">#fd8bb6</color>
+
+</resources>

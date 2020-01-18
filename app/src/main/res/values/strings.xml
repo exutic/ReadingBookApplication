@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EVIL DB</string>
+
+    <string name="main_list">All</string>
+    <string name="fave_list">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="fonts">Fonts</string>
+    <string name="fonts13">Font size 13</string>
+    <string name="fonts17">Font size 17</string>
+    <string name="fonts20">Font size 20</string>
+
+    <string name="remove_from_fave">Removed from Favorite</string>
+    <string name="add_to_favorite">Added to Favorite</string>
+
+    <string name="font_ALGER">"font/ALGER.TTF"</string>
+    <string name="font_ITCBLKAD">"font/ITCBLKAD.TTF"</string>
+    <string name="font_ITCKRIST">"font/ITCKRIST.TTF"</string>
+    <string name="font_default">"Default"</string>
+
+    <string name="btn_save">Save</string>
+
+
+
+    <string name="settings_test_note">You Are noT prepared , Champion</string>
+
+
+    <string name="fontCHanged">Font Changed</string>
+
+
+</resources>

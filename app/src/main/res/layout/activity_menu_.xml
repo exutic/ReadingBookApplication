@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menu_layout_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Activities.Menu_Activity">
+
+    <TextView
+        android:id="@+id/btn_list_id"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/border1"
+        android:gravity="center"
+        android:onClick="clicked"
+        android:text="@string/main_list"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/btn_fave_list_id"
+        android:layout_width="125dp"
+        android:layout_height="65dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/border1"
+        android:gravity="center"
+        android:onClick="clicked"
+        android:text="@string/fave_list"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/btn_settings_id"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/border1"
+        android:gravity="center"
+        android:onClick="clicked"
+        android:text="@string/settings"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

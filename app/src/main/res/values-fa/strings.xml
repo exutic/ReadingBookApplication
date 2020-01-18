@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evil DB</string>
+
+    <string name="main_list">همه</string>
+    <string name="fave_list">مورد علاقه</string>
+    <string name="settings">تنظیمات</string>
+    <string name="fonts">دست خط</string>
+    <string name="fonts13">اندازه دستخط 13</string>
+    <string name="fonts17">اندازه دستخط 17</string>
+    <string name="fonts20">اندازه دستخط 20</string>
+
+    <string name="remove_from_fave">از علاقمندی ها پاک شد</string>
+    <string name="add_to_favorite">به علاقمندی ها اظافه شد</string>
+
+    <string name="font_ALGER">"font/ALGER.TTF"</string>
+    <string name="font_ITCBLKAD">"font/ITCBLKAD.TTF"</string>
+    <string name="font_ITCKRIST">"font/ITCKRIST.TTF"</string>
+    <string name="font_default">پیش فرض</string>
+
+    <string name="btn_save">ذخیره سازی</string>
+
+
+
+    <string name="settings_test_note">تو آماده نیستی قهرمان</string>
+
+
+    <string name="fontCHanged">دست خط عوض شد</string>
+
+
+</resources>
